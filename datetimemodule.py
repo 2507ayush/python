@@ -1,0 +1,12 @@
+import datetime
+d = datetime.datetime.now()
+print(d.strftime("%B"))
+print(d.strftime("%a"))
+print(d.strftime("%A"))
+print(d.strftime("%M"))
+print(d.strftime("%S"))
+print(d.strftime("%p"))
+print(d.strftime("%Y"))
+print(d.strftime("%C"))
+print(d.strftime("%X"))
+print(d.strftime("%x"))

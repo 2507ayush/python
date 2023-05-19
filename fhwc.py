@@ -1,0 +1,5 @@
+f=open("pynew.txt",'r')
+y=f.read()
+l=y.split()
+z=len(l)
+print(z)
